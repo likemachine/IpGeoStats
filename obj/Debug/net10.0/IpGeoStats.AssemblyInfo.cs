@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IpGeoStats")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fbf0ac7b4e9d9b2d845f0554ce8cf736f82b7af")]
 [assembly: System.Reflection.AssemblyProductAttribute("IpGeoStats")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IpGeoStats")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
