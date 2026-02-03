@@ -1,0 +1,14 @@
+/Users/bogdanshamin/Documents/VK Play/IpChecker/bin/Debug/net10.0/IpGeoStats
+/Users/bogdanshamin/Documents/VK Play/IpChecker/bin/Debug/net10.0/IpGeoStats.deps.json
+/Users/bogdanshamin/Documents/VK Play/IpChecker/bin/Debug/net10.0/IpGeoStats.runtimeconfig.json
+/Users/bogdanshamin/Documents/VK Play/IpChecker/bin/Debug/net10.0/IpGeoStats.dll
+/Users/bogdanshamin/Documents/VK Play/IpChecker/bin/Debug/net10.0/IpGeoStats.pdb
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/IpGeoStats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/IpGeoStats.AssemblyInfoInputs.cache
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/IpGeoStats.AssemblyInfo.cs
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/IpGeoStats.csproj.CoreCompileInputs.cache
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/IpGeoStats.dll
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/refint/IpGeoStats.dll
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/IpGeoStats.pdb
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/IpGeoStats.genruntimeconfig.cache
+/Users/bogdanshamin/Documents/VK Play/IpChecker/obj/Debug/net10.0/ref/IpGeoStats.dll
